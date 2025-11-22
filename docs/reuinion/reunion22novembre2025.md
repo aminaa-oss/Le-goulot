@@ -66,5 +66,6 @@ modalités de fonctionnement et d’organisation du travail, ainsi qu’un aper�
 - Revues régulières de la roadmap (à chaque sprint ou milestone)
 - Mesure des indicateurs de progression : issues fermées, couverture de tests, fréquence de release, qualité du code
 - Réévaluation des rôles et besoins en ressources
-
+- Début de projet, collaboration future
+  
 
